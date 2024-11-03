@@ -1,0 +1,1 @@
+# resumo-do-azure-lab-2
